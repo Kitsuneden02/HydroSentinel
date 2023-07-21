@@ -15,6 +15,10 @@ El módulo RAK5801 y el sensor YF-S201 reciben información sobre la corriente q
 
 OBS: El sensor de flujo no se encuentra operativo actualmente ya que su forma de recolectar e interpretar los datos ocaciona que se sature la CPU provocando que se apague o reinicie todo el sistema. (Aún así, funciona por separado, es decir, sin utilizar la comunicación.)
 
+##Videos demostrativos
+https://drive.google.com/file/d/180c-wNcW0nTIcBb5RHB_3fi3kyxiMKGl/view?resourcekey (Flujo)
+https://drive.google.com/file/d/17y4Zd_wieQllReBEq0bHoLr1ByMvM6-8/view?resourcekey (Corriente y Dashboard)
+
 ##Contacto
 - Maximiliano Flores C. (m.flores.c@ug.uchile.cl)
 - Sebastián Herrera T. (sebastian.herrera.t@ug.uchile.cl)
