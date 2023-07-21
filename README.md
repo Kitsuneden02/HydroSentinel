@@ -19,5 +19,3 @@ OBS: El sensor de flujo no se encuentra operativo actualmente ya que su forma de
 - Maximiliano Flores C. (m.flores.c@ug.uchile.cl)
 - Sebastián Herrera T. (sebastian.herrera.t@ug.uchile.cl)
 - Cristian Hernández H. (c.hernandez.h@ug.uchile.cl)
-
-- 
